@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+while true; do
+
+	python3 web_scrape.py
+	sleep 60
+done
